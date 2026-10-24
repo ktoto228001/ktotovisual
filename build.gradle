@@ -1,7 +1,8 @@
 plugins {
-	id 'net.fabricmc.fabric-loom' version "${loom_version}"
-	id 'maven-publish'
+    id 'net.fabricmc.loom' version '1.9-SNAPSHOT'
+    id 'maven-publish'
 }
+
 
 repositories {
 	// Add repositories to retrieve artifacts from in here.
