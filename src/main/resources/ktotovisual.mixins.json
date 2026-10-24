@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "EntityRenderMixin"
+  ]
+}
