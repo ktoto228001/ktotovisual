@@ -15,6 +15,11 @@
 	"icon": "assets/modid/icon.png",
 	"environment": "*",
 	"entrypoints": {
+  "client": [
+    "Ktotovisuals"
+  ]
+}
+
 		"main": [
 			"com.example.ExampleMod"
 		],
